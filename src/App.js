@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>CryptoCanvas Gallery</h1>
+        <h1>CryptoCatNews NFT Gallery</h1>
       </header>
       <div className="Image-gallery">
         {images.map((image, index) => (
